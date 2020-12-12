@@ -1,9 +1,10 @@
 @import "custom-properties.scss";
 @import "inputs.scss";
+@import url(//db.onlinewebfonts.com/c/3b12f78c783e678acc1f0fefe8e46380?family=Museo+Sans+300);
 
 * {
   box-sizing: border-box;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Museo Sans 300', sans-serif;
 }
 
 body {
